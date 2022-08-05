@@ -6895,7 +6895,7 @@ let allQueens = [
     ava, divinity, elecktra, enorma, farida, ivana, riche, luquisha,
     elips, kam, bigbertha, briochee, grandedame, kahena, lolita, lova, paloma, soa,
     brigiding, corazon, eva, gigiEra, lady, marinaSummers, minty, precious, prince, turing, vinas, xilhouete,
-    pangina
+    pangina, barbie, gckam, jaiden, reddy, boop, absolute, kyo, nicki, viante
 ].concat(allCustomQueens).sort((a, b) => a.getName().toLowerCase().localeCompare(b.getName().toLowerCase()));
 let allQueensCopy = [];
 let allQueensCopy2 = [];
