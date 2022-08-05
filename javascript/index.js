@@ -6841,7 +6841,7 @@ let drph = [brigiding, corazon, eva, gigiEra, lady, marinaSummers, minty, precio
 //SPECIAL 
 let pangina = new Queen("Pangina Heals", 9, 7, 14, 11, 8, 13, 14, "Pangina");
 let international_as = [baga, blu, cheryl, janey, jimbo, jujubee, lemon, monique, pangina];
-//GCDR
+//GROUP CHAT DRAG RACE
 let barbie = new Queen("Barbie", 10, 8, 11, 7, 5, 10, 14, "Barbie");
 let gckam = new Queen("Kam", 8, 12, 14, 13, 5, 9, 13, "GCKam");
 let jaiden = new Queen("Jaiden", 9, 10, 7, 7, 10, 6, 10, "Jaiden");
