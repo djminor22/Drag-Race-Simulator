@@ -6841,6 +6841,17 @@ let drph = [brigiding, corazon, eva, gigiEra, lady, marinaSummers, minty, precio
 //SPECIAL 
 let pangina = new Queen("Pangina Heals", 9, 7, 14, 11, 8, 13, 14, "Pangina");
 let international_as = [baga, blu, cheryl, janey, jimbo, jujubee, lemon, monique, pangina];
+//GCDR
+let barbie = new Queen("Barbie", 10, 8, 11, 7, 5, 10, 14, "Barbie");
+let gckam = new Queen("Kam", 8, 12, 14, 13, 5, 9, 13, "Kam");
+let jaiden = new Queen("Jaiden", 9, 10, 7, 7, 10, 6, 10, "Jaiden");
+let reddy = new Queen("Reddy", 13, 8, 6, 5, 12, 8, 10, "Reddy");
+let boop = new Queen("Boop", 7, 15, 6, 7, 9, 7, 10, "Boop");
+let absolute = new Queen("Absolute", 13, 8, 9, 13, 12, 11, 11, "Absolute");
+let kyo = new Queen("Kyo", 7, 5, 10, 13, 5, 10, 8, "Kyo");
+let nicki = new Queen("Nicki", 6, 5, 5, 8, 4, 7, 4, "Nicki");
+let viante = new Queen("Viante", 7, 9, 11, 15, 10, 13, 9, "Viante");
+let gcaw = [barbie, gckam, jaiden, reddy, boop, absolute, kyo, nicki, viante];
 //all possible queens:
 let allCustomQueens = [];
 if (localStorage.getItem("customQueens") != null)
